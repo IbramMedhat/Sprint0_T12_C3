@@ -13,7 +13,9 @@ First name : Mostafa , Last name : Nasr , ID : 37-8769
 
 **About** :
 Ibram : studing Media Engineering technology in GUC and interested in research for developping great and new things
-Steven : 
+
+Steven : Advanced Front-End Developer.
+
 **Design** :
 
 
