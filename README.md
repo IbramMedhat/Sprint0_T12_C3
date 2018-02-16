@@ -21,8 +21,4 @@ Steven : Advanced Front-End Developer.
 Basem : Learning about github to be able to work in Software Engineering environments later.
 
 Mostafa : A Gamer xD
-
-**Design** :
-
-
  
